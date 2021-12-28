@@ -1,0 +1,4 @@
+#!/bin/bash
+set -x
+rm /etc/nginx/sites-enabled/$1
+
